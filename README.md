@@ -18,6 +18,8 @@
 ---
 Data set
 >https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=584
+>https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=570
 
 Hugging face
 >https://huggingface.co/CompVis/stable-diffusion-v1-4?text=fox+character
+
