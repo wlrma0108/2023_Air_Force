@@ -16,7 +16,8 @@
 ---
 ## 참고사이트
 ---
-data set
-https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=584
+Data set
+>https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=584
+
 Hugging face
-https://huggingface.co/CompVis/stable-diffusion-v1-4?text=fox+character
+>https://huggingface.co/CompVis/stable-diffusion-v1-4?text=fox+character
