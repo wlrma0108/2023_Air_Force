@@ -14,6 +14,9 @@
 ---
 ## 탐구성
 ---
+## Design
+>https://www.figma.com/file/IGlvgZKNsm2HHMBemQkgih/airforce?node-id=15%3A108&t=T1FzLbp4soD7nIZx-1
+---
 ## 참고사이트
 ---
 Data set
@@ -22,4 +25,3 @@ Data set
 
 Hugging face
 >https://huggingface.co/CompVis/stable-diffusion-v1-4?text=fox+character
-
