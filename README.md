@@ -16,6 +16,8 @@
 ---
 ## Design
 >https://www.figma.com/file/IGlvgZKNsm2HHMBemQkgih/airforce?node-id=15%3A108&t=T1FzLbp4soD7nIZx-1
+>PPT
+>마케팅자료
 ---
 ## 참고사이트
 ---
