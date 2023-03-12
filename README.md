@@ -77,11 +77,12 @@
 
 ---
 ## Design
+앱디자인
 >https://www.figma.com/file/IGlvgZKNsm2HHMBemQkgih/airforce?node-id=15%3A108&t=T1FzLbp4soD7nIZx-1
-
->PPT
-
->마케팅자료
+PPT
+>123
+마케팅자료
+>https://www.figma.com/file/BiYXl6c9mZ2G86uC83uSUC/AIR-Force-Marketing?node-id=0%3A1&t=Rohc8uXg5jnrME8k-0
 ---
 ## 참고사이트
 ---
