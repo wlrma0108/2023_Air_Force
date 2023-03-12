@@ -67,3 +67,11 @@ Data set
 
 Hugging face
 >https://huggingface.co/CompVis/stable-diffusion-v1-4?text=fox+character
+
+뉴스
+>https://www.joongang.co.kr/article/25104810#home
+
+논문
+
+통계
+
