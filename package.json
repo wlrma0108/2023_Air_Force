@@ -1,0 +1,23 @@
+{
+  "name": "2023_air_force-1",
+  "version": "1.0.0",
+  "description": "---\r ## 아이템개요\r 1. 핵심기능",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlrma0108/2023_Air_Force.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlrma0108/2023_Air_Force/issues"
+  },
+  "homepage": "https://github.com/wlrma0108/2023_Air_Force#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
