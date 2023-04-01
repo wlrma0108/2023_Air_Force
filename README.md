@@ -70,7 +70,6 @@ Kubernetes
 
 2. 조묵기
 
-3. 조준민
 ---
 
 ## 참고
@@ -101,7 +100,11 @@ Kubernetes
 >https://www.figma.com/file/IGlvgZKNsm2HHMBemQkgih/airforce?node-id=15%3A108&t=T1FzLbp4soD7nIZx-1
 
 PPT
->123
+>담아야하는 내용
+>1. 디자인
+>2. github
+>3. 시장분석(tam,sam,som, lyncanvas,마케팅전략, 마일스톤)
+>4. 팀원
 
 마케팅자료
 >https://www.figma.com/file/BiYXl6c9mZ2G86uC83uSUC/AIR-Force-Marketing?node-id=0%3A1&t=Rohc8uXg5jnrME8k-0
