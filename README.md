@@ -120,6 +120,9 @@ Data set
 Hugging face
 >https://huggingface.co/CompVis/stable-diffusion-v1-4?text=fox+character
 
+replicate
+>https://replicate.com/jagilley/controlnet-scribble
+>
 뉴스
 >https://www.joongang.co.kr/article/25104810#home
 >https://news.seoul.go.kr/welfare/archives/504936
