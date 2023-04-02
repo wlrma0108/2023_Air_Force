@@ -69,17 +69,31 @@ T:기술
 
 ---
 ## 사업화 계획 및 실행방안
+
+자유치전략
+
+비지니스 캔버스
+
 ---
 ## 기술성
 
-Node.js
-ReactNative
-Hugging Face(torch)
-Flask
-Kubernetes
+기술적 요소
+React Native, Node.js, Docker, kubernetes
+control net
+Bert
+Dialogue system
+
+
+우위요소
+-다른 사업아이템들과 비교
 
 ---
 ## 시장성
+
+마케팅:
+
+세일즈 전략:stp, custormer journey map
+
 ---
 ## 팀구성
 
