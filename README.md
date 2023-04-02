@@ -101,7 +101,12 @@ Dialogue system
 > https://dlwlrma0108.notion.site/Kim-HoJoong-42db75c62a86423c812557898bb9430a
 
 2. 조묵기
-
+(300자)
+재무 및 기획
+설비소방학과
+수학경시대회 
+사회자 역할(축제)
+동아리 멘토멘티(어린이집+유소년센터)
 ---
 
 ## 참고
