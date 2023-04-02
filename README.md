@@ -129,6 +129,8 @@ replicate
 뉴스
 >https://www.joongang.co.kr/article/25104810#home
 >https://news.seoul.go.kr/welfare/archives/504936
+>>https://www.yna.co.kr/view/AKR20230304025200002
+
 논문
 
 통계
