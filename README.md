@@ -90,7 +90,7 @@ Dialogue system
 ---
 ## 시장성
 
-마케팅:
+마케팅:어떤 가치를 어떻게 전달할 것 인가 + 프로모션, 이벤
 
 세일즈 전략:stp, custormer journey map
 
