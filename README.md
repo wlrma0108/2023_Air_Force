@@ -133,6 +133,7 @@ replicate
 
 통계
 >https://kess.kedi.re.kr/mobile/search?searchTxt=%EC%9C%A0%EC%95%84%EA%B5%90%EC%9C%A1%EC%8B%9C%EC%9E%A5%20%EA%B7%9C%EB%AA%A8
+>https://sgis.kostat.go.kr/view/edu/mid/issueDetail?contents_id=M0106
 
 
 Design
